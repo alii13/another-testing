@@ -52,8 +52,8 @@ img.img-fluid.image-certificate {
 
 @media (max-width: 428px) {
   .container.col-md-9.align-self-center {
-    height: 48vh;
-    padding-top: 3em !important;
+    height: 52vh;
+    padding-top: 2em !important;
   }
   .buttons {
     display: block !important;
@@ -67,6 +67,9 @@ img.img-fluid.image-certificate {
   }
   .embed-responsive.embed-responsive-16by9.z-depth-1-half {
     padding: 0;
+  }
+  p.lead.text-center.text-muted.pt-2 {
+    font-size: 1em;
   }
 }
 @media (min-width: 429px) {
