@@ -52,7 +52,7 @@ img.img-fluid.image-certificate {
 
 @media (max-width: 428px) {
   .container.col-md-9.align-self-center {
-    height: 55vh;
+    height: 48vh;
     padding-top: 3em !important;
   }
   .buttons {
